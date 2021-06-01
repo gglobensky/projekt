@@ -26,6 +26,7 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+gem 'foreman'
 gem 'bulma-rails'
 gem 'simple_form'
 gem 'devise'
@@ -35,7 +36,8 @@ gem "wysiwyg-rails"
 gem 'public_activity'
 gem 'pg'
 gem "figaro"
-
+gem "font-awesome-rails"
+gem 'font-awesome-sass'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
